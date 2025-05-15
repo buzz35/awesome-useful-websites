@@ -1088,6 +1088,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Read Next](https://read-next.com/) - A collection of 3,000+ books recommended by famous people from various domains such as scientists, investors, entrepreneurs, celebrities, and authors.
 - [Goodbooks](https://www.goodbooks.io/) - Offers 8,500+ book recommendations from successful and interesting individuals around the world.
 - [Most Recommended Books](https://mostrecommendedbooks.com/) - Curates 500+ experts, 600+ lists, 500+ book series, providing 100% verified book recommendations.
+- [Booktorium](https://booktorium.com/) - Find almost every author's work in order. Lists are updated automatically when there's a new release.
 - [Books Chatter](https://bookschatter.com/) - Find book recommendations from people's tweets, with tweets shown.
 - [Leafmarks](https://www.leafmarks.com/) - Explore book recommendations from famous authors, top CEOs, legendary investors, and favorite celebrities.
 - [Bookstash](https://bookstash.io/) - Features top books recommended by famous individuals, summarized in 3 minutes or less.
